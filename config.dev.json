@@ -40,7 +40,7 @@
   "authorName": "👑 David mpongo 👑",
   "authorFB": "https://m.me/100092277325670",
   "authorEmail": "manosmith524@gmail.com",
-  "prefix": "-",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
